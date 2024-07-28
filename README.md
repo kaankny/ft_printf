@@ -31,13 +31,6 @@ The project requires the implementation of the `ft_printf` function, which shoul
 - `%X` - Prints a number in hexadecimal (base 16) format using uppercase letters.
 - `%%` - Prints a percent sign.
 
-### Bonus Part
-
-If the mandatory part is fully functional, you can implement the following bonus features:
-
-- Handle the `-0.` flags for all conversions.
-- Handle the `# +` flags (including the space flag).
-
 ### External Functions
 
 You are allowed to use the following external functions:
